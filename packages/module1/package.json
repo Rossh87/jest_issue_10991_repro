@@ -1,0 +1,8 @@
+{
+  "name": "module1",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": "true",
+  "main": "./hello.js",
+  "dependencies": {}
+}
